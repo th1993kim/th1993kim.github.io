@@ -28,3 +28,15 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+
+gem "jekyll-redirect-from", "~> 0.16.0"
+
+gem "jekyll-sitemap", "~> 1.4"
+
+gem "jekyll-avatar", "~> 0.7.0"
+
+gem "jemoji", "~> 0.12.0"
+
+gem "jekyll-mentions", "~> 1.6"
+
+gem "webrick", "~> 1.7"
